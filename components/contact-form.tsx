@@ -53,7 +53,7 @@ className="mt-1 w-full rounded-md border border-neutral-300 px-4 py-2.5 text-neu
 type="submit"
 className="rounded-md bg-neutral-900 px-6 py-3 text-sm font-medium text-white transition hover:bg-neutral-800"
 >
-Continue the Conversation
+Reply by Email
 </button>
 <p className="text-sm text-neutral-500">
 This opens directly in your email app, addressed to me personally — no contact-form black hole.
