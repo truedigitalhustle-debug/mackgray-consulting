@@ -60,7 +60,7 @@ Reply to my email
 href="/contact"
 className="rounded-md border border-neutral-300 px-6 py-3 text-sm font-medium text-neutral-800 transition hover:border-neutral-400"
 >
-Or find 15 minutes to talk
+Or continue by email
 </Link>
 </div>
 </section>
@@ -68,17 +68,17 @@ Or find 15 minutes to talk
 <section className="border-t border-neutral-200 bg-neutral-50">
 <div className="mx-auto max-w-2xl px-6 py-16">
 <h2 className="font-serif text-2xl text-neutral-900">
-If you reply, here&apos;s honestly what happens
+What happens if you reply?
 </h2>
 <ol className="mt-6 space-y-4 text-lg leading-relaxed text-neutral-700">
 <li>
-<span className="font-medium text-neutral-900">1.</span> We talk — usually fifteen minutes, no slide deck, just figuring out if this makes sense for your business.
+<span className="font-medium text-neutral-900">1.</span> We continue the conversation by email.
 </li>
 <li>
-<span className="font-medium text-neutral-900">2.</span> If it does, I introduce you into the Lacad Consulting process, where the actual work gets scoped.
+<span className="font-medium text-neutral-900">2.</span> I&apos;ll answer your questions honestly and determine whether there&apos;s a genuine opportunity.
 </li>
 <li>
-<span className="font-medium text-neutral-900">3.</span> If it doesn&apos;t, that&apos;s fine too — no pressure, no follow-up spam.
+<span className="font-medium text-neutral-900">3.</span> If there appears to be a good fit, I&apos;ll explain the next steps and, when appropriate, introduce you to the Lacad Consulting team for the fulfillment process.
 </li>
 </ol>
 </div>
@@ -95,7 +95,7 @@ conversation.
 href={`mailto:${siteConfig.email}`}
 className="rounded-md bg-neutral-900 px-6 py-3 text-sm font-medium text-white transition hover:bg-neutral-800"
 >
-Reply and let&apos;s talk
+Continue by Email
 </a>
 </div>
 </section>
