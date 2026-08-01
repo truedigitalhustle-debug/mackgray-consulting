@@ -19,9 +19,7 @@ If you have questions about how your information is
 handled, contact Mack Gray directly using the contact page.
 </p>
 <p className="text-sm text-neutral-500">
-Last updated: July 31, 2026. This is a template starting point,
-not legal advice — have it reviewed by a qualified professional
-before publishing.
+Last updated: July 31, 2026. This policy may be updated from time to time. Please review this page periodically for changes.
 </p>
 </div>
 </main>
