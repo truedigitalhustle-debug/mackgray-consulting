@@ -8,18 +8,18 @@ return (
 <h1 className="font-serif text-3xl text-neutral-900">Privacy Policy</h1>
 <div className="mt-8 space-y-5 text-neutral-700">
 <p>
-[PLACEHOLDER — review before launch] This website does not use
+This website does not use
 tracking cookies or third-party analytics. Information submitted
 through the contact form is sent directly to Mack Gray&apos;s email
 address via your own email client and is not stored on any server or
 database operated by this website.
 </p>
 <p>
-[PLACEHOLDER] If you have questions about how your information is
+If you have questions about how your information is
 handled, contact Mack Gray directly using the contact page.
 </p>
 <p className="text-sm text-neutral-500">
-Last updated: [PLACEHOLDER DATE]. This is a template starting point,
+Last updated: July 31, 2026. This is a template starting point,
 not legal advice — have it reviewed by a qualified professional
 before publishing.
 </p>
