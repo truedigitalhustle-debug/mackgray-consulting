@@ -19,9 +19,7 @@ the Lacad Consulting partnership and are subject to separate
 agreements between the client and Lacad Consulting.
 </p>
 <p className="text-sm text-neutral-500">
-Last updated: July 31, 2026. This is a template starting point,
-not legal advice — have it reviewed by a qualified professional
-before publishing.
+Last updated: July 31, 2026. These terms may be updated from time to time. Please review this page periodically for changes.
 </p>
 </div>
 </main>
