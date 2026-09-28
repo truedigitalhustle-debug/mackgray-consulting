@@ -4,6 +4,6 @@ export const siteConfig = {
         photo: "/images/mack-gray.jpg",
           signatureName: "Mack Gray",
             role: "Licensed Partner, Lacad Consulting",
-              lacadUrl: "https://www.lacadconsulting.com/",
+              lacadUrl: "https://www.renelacad.com/",
               };
               
